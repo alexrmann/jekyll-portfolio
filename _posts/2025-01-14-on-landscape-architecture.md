@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On the Professionalized Discipline of Landscape Architecture"
+author: Alex R. Mann
 date:   2025-01-14 4:20:00 -0800
 categories: landscape-architecture
 ---
