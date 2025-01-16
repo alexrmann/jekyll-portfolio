@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "On Landscape Architecture"
+title:  "On the Professionalized Discipline of Landscape Architecture"
 date:   2025-01-14 4:20:00 -0800
 categories: landscape-architecture
 ---
-# On the Professionalized Discipline of Landscape Architecture
 
 It cannot be denied that landscape architecture has, since its inception, lived in the shadow of, capital 'A', *Architecture*. Were they two different soda brands, architecture would be Coke--the "Real Thing". Void of any qualifying prefix, architecture is the original, the real McCoy, an elite and ancient practice amongst humanity's highest ideals. On the other hand, landscape architecture tastes more like Squirt, a peculiar flavor (sweet and sour), certainly a soda, but firmly subsidiary in consumer preference, cultural significance, and total market share. Besides its more limited preoccupation with "landscape" as its medium, it fails to stand out as a practice in its own right. By recognizing itself *within* architecture, landscape architecture admits a certain descendence from architecture, existing as a sub-field comprised of specialists, at least in name if not in practice.
 
