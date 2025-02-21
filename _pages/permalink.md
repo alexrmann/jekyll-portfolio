@@ -8,10 +8,8 @@ permalink: /permalink-sample
 ---
 Any markdown files placed in the <code>_pages</code> folder will become navigation permalinks.
 
-Don't forget to provide [links][baumwelt] to relevant topics!
+Want to [learn more about Jekyll](http://127.0.0.1:4000/jekyll-portfolio/about)?
 
 Perhaps an image?
 
 ![A sketch of a unicycle robot with a pink heart revealed by a door on its chest. The a transparent flower chart is in the background.]({{ site.baseurl }}/assets/ux-bot.svg)
-
-[baumwelt]: https://www.thebaumwelt.com
