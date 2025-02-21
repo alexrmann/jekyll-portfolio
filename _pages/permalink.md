@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Baumwelt"
+title:  "Permalink Sample"
 author: Alex R. Mann
 date:   2025-01-20 4:12:00 -0800
 categories: jekyll update my-category
-permalink: /baumwelt.html
+permalink: /permalink-sample
 ---
-Write in your bullet list for the meeting agenda.
-- Item 1
-- Item 2
-- Item 3
+Any markdown files placed in the <code>_pages</code> folder will become navigation permalinks.
 
 Don't forget to provide [links][baumwelt] to relevant topics!
 
