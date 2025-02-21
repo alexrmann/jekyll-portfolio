@@ -8,7 +8,7 @@ permalink: /permalink-sample
 ---
 Any markdown files placed in the <code>_pages</code> folder will become navigation permalinks.
 
-Want to [learn more about Jekyll](http://127.0.0.1:4000/jekyll-portfolio/about)?
+Want to [learn more about Jekyll]({{ site.baseurl }}/about)?
 
 Perhaps an image?
 
